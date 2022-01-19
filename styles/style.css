@@ -1,5 +1,5 @@
-/*  видимые границы элементов
-section, div, h1, h2, h3, h4, p, logo, img, table, tr, td {
+ /* видимые границы элементов */
+/* section, div, h1, h2, h3, h4, p, logo, img, table, tr, td {
   border: 1px solid orange;
 } */
 
@@ -288,11 +288,7 @@ section, div, h1, h2, h3, h4, p, logo, img, table, tr, td {
   font-weight: normal;
   line-height: 25px;
 }
-.footer__columns_content_info {
-  display: flex;
-  flex-direction: column;
-  justify-content: top;
-}
+
 .footer__column-heading {
   margin: 0;
   font-size: 18px;
