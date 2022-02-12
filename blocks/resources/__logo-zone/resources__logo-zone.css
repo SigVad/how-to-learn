@@ -4,6 +4,6 @@
   width: 1100px;
   list-style: none;
   display: flex;
-  flex-direction: row;
+  justify-content: space-between;
   font-size: 0;
 }
