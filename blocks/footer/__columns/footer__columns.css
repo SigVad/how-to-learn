@@ -1,0 +1,9 @@
+.footer__columns {
+  margin: 0 auto;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  width: 90%;
+  /* вместе с родительскими паддингами будет нужная высота родителя */
+  min-height: 250px;
+}

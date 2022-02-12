@@ -1,0 +1,6 @@
+/* общие модификаторы для логотипов */
+.logo {
+  background-size: cover;
+  height: 32px;
+  width: 183px;
+}

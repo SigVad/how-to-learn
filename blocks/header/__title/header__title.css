@@ -1,0 +1,10 @@
+.header__title {
+  /*текстовый элемент имеет стандартные браузерные стили margin margin-block-start: 1em; и margin-block-end: 1em;. Это можно увидеть в веб-инспекторе. */
+  width: 730px;
+  margin: 0 auto;
+  margin-left: 64px;
+  font-size: 102px;
+  font-weight: bold;
+  line-height: 96px;
+  z-index: 3;
+}
